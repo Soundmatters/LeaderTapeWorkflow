@@ -4,12 +4,14 @@
 
 The following workflow is for adding or replacing leader tape on open-reel tape.
 
-## Supplies 
+## Supplies   
+  
+  For this workflow, you need the following supplies:
 
-Leader tape
-Splicing tape
-Splicing block
-Straight-edge razor
+* Leader tape. 
+* Splicing tape. 
+* Splicing block. 
+* Straight-edge razor. 
 
 ## Workflow
 
